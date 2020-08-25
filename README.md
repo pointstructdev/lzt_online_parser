@@ -8,6 +8,8 @@
 
 > Parser of on-line users from lolz.guru
 
+[![CodeFactor](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser/badge)](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser)
+
 ### 🏠 [Homepage](github.com/pointstructdev/lzt_online_parser)
 
 ## Install
@@ -34,8 +36,6 @@ npm run test
 
 * Website: https://github.com/pointstructdev/
 * Github: [@pointstructdev](https://github.com/pointstructdev)
-
-[![CodeFactor](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser/badge)](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser)
 
 ## Show your support
 
