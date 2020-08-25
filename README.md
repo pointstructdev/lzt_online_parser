@@ -35,6 +35,8 @@ npm run test
 * Website: https://github.com/pointstructdev/
 * Github: [@pointstructdev](https://github.com/pointstructdev)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser/badge)](https://www.codefactor.io/repository/github/pointstructdev/lzt_online_parser)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
